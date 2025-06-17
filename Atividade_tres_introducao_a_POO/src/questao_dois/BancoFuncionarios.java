@@ -29,6 +29,7 @@ public class BancoFuncionarios {
                 return true;
             }
         }
+        leitor.close();
         return false;
     }
    
