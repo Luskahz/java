@@ -1,0 +1,2 @@
+PessoaJuridica#Empresa X#contato@empresax.com#Av. B, 456#12.345.678/0001-90#123456789#Empresa X Ltda
+PessoaFisica#João Silva#joao@gmail.com#Rua A, 123#123.456.789-00#01/01/1980#Solteiro
